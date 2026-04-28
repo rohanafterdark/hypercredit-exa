@@ -17,3 +17,9 @@ These skills help you write, refactor, and fix code.
   ```
   npx skills@latest add rohanafterdark/hypercredit-exa/process-tracker
   ```
+
+- **clean-code** - skill to analyze the codebase or part of the codebase to follow clean code principles
+
+  ```
+  npx skills@latest add rohanafterdark/hypercredit-exa/clean-code
+  ```
